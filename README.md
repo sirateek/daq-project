@@ -32,7 +32,7 @@ Lastly, We will convert data in to the graph to show the relationship of how tem
 
 # Instructions for building and running
 
-## Frontend     
+### Frontend     
 > For dev run
 ```
 make run-frontend 
@@ -43,7 +43,7 @@ make build-frontend
 ```
 More detail [Frontend](./frontend/README.md)
 
-## Backend
+### Backend
 > Run program
 ```
 make run-backend
