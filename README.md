@@ -26,3 +26,25 @@ Lastly, We will convert data in to the graph to show the relationship of how tem
 2. Arduino MQTT
 3. AceRoutine
 4. ESP8266WiFi
+5. GO 1.19
+6. Vue.js
+
+
+# Instructions for building and running
+
+### Frontend     
+> For dev run
+```
+make run-frontend 
+```
+> For Type-checking, complie and Minify for Production
+```
+make build-frontend
+```
+More detail [Frontend](./frontend/README.md)
+
+### Backend
+> Run program
+```
+make run-backend
+```
